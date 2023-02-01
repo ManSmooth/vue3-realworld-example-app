@@ -5,7 +5,7 @@
         class="navbar-brand"
         name="global-feed"
       >
-        conduit
+        Sarin Patanompee
       </AppLink>
 
       <ul class="nav navbar-nav pull-xs-right">
